@@ -1,4 +1,4 @@
-let horasInput = Document.querySelector("#horas")
+let horasInput = document.querySelector("#horas")
 let minutosInput = document.querySelector("#minutos")
 let segundosInput = document.querySelector("#segundos")
 
